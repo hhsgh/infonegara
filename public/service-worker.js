@@ -23,10 +23,7 @@ const DATA_CACHE_NAME = 'data-cache-v1';
 
 // CODE: Add list of files to cache here.
 const FILES_TO_CACHE = [
-  'offline.html',
-	'manifest.json',
-  'js/main.js',
-  'js/extention/choices.js',
+  'offline.html'
   /*
 	'manifest.json',
   'indonesia.json',
